@@ -7,7 +7,7 @@ Hi there! I'm Constanza Schulz, a data analyst and full-stack developer with exp
 
 <img src="https://img.icons8.com/?size=100&id=hjg2SJNibIzb&format=png&color=000000" alt="vscode" width="20" height="20"/> Data Analysis Expertise:- Skilled in relational databases (SQL) and statistical analysis tools.
 
-<img src="https://img.icons8.com/?size=100&id=hjg2SJNibIzb&format=png&color=000000" alt="vscode" width="20" height="20"/> Dashboard creation using Power BI, leveraging DAX for insightful visualizations.
+<img src="https://img.icons8.com/?size=100&id=hjg2SJNibIzb&format=png&color=000000" alt="vscode" width="20" height="20"/> Dashboard creation using Qlik Sense, Power BI, leveraging DAX for insightful visualizations.
 
 <img src="https://img.icons8.com/?size=100&id=hjg2SJNibIzb&format=png&color=000000" alt="vscode" width="20" height="20"/> Full-Stack Development:- Proficient in web development with Angular and .NET Core.
 
