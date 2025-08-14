@@ -19,6 +19,8 @@ Hi there! I'm Constanza Schulz, a data analyst and full-stack developer with exp
 
 <img src="https://img.icons8.com/?size=100&id=hjg2SJNibIzb&format=png&color=000000" alt="vscode" width="20" height="20"/> Learning Goals:- Expanding knowledge in Industry 4.0 technologies, including IoT, industrial robotics, and advanced Python applications.
 
+<img src="https://img.icons8.com/?size=100&id=hjg2SJNibIzb&format=png&color=000000" alt="vscode" width="20" height="20"/>Design and implementation of intelligent automation workflows with n8n, integrating APIs, databases, and external services to streamline operations
+
 
 
 <h2 align="center">  <img src="https://img.icons8.com/?size=100&id=tcVVDE8f7IqB&format=png&color=000000" alt="vscode" width="25" height="25"/> Technical Skills  <br/> </h2>
