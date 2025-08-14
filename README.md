@@ -42,6 +42,7 @@ Hi there! I'm Constanza Schulz, a data analyst and full-stack developer with exp
 <img src="https://crgroup.com/wp-content/uploads/tableau-blue-logo.png" alt="figma" width="35" height="35"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+<img src="https://cdn.brandfetch.io/idY56OZ9sE/w/640/h/640/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1750765114472" alt="apollo" width="50" height="50"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
