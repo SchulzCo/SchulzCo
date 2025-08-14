@@ -51,6 +51,7 @@ Hi there! I'm Constanza Schulz, a data analyst and full-stack developer with exp
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>                       
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>       
-<img src="https://www.svgrepo.com/show/354242/qlik.svg" alt="figma" width="45" height="45"/> 
+<img src="https://www.svgrepo.com/show/354242/qlik.svg" alt="figma" width="50" height="50"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/53/N8n-logo-new.svg" alt="N8n" width="90" height="90"/> 
 <br/></h1> 
 
